@@ -7,7 +7,6 @@ Welcome to the Stock Market Prediction project! This project aims to predict fut
 - [Project Overview](#project-overview)
 - [Project Steps](#project-steps)
 - [Project Components](#project-components)
-- [Requirements](#requirements)
 - [Usage](#usage)
 - [Contribution](#contribution)
 - [License](#license)
@@ -46,15 +45,6 @@ The Stock Market Prediction project focuses on:
 - `model_training.py`: Trains and evaluates the predictive model.
 - `forecasting.py`: Generates future stock price forecasts.
 - `visualization.py`: Creates visualizations of historical and forecasted data.
-
-## Requirements
-
-- Python version: 3.9.12
-- pandas [mention required pandas version]
-- numpy [mention required numpy version]
-- scikit-learn [mention required scikit-learn version]
-- tensorflow [mention required tensorflow version]
-- [mention any other libraries or tools used]
 
 ## Usage
 
